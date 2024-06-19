@@ -1,0 +1,3 @@
+#25. Write a program that copies the contents of one text file to another.
+
+# couldnt solve this :/ 
